@@ -1,2 +1,6 @@
 # Data-Analytics
-This are assignments solutions  about numpy and pandas 
+```
+These are assignments solutions  about numpy and pandas 
+and also vizualisation using MatPlotLib and Seaborn.
+
+```
